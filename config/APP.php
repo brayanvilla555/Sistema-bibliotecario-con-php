@@ -1,6 +1,6 @@
 <?php
 	 //tu url del servido
-	 const SERVER_URL = "http://localhost:8080/Sisten_Blibiotec/";
+	 const SERVER_URL = "http://sisten_blibiotec.test/";
 	 //nomde de la empresa
 	 const COMPANY = "SISTEMAS BLIBLIOTECARIO DE PRESTAMOS";
 	 //tipo de moneda

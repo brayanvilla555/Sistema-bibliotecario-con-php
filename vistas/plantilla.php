@@ -41,7 +41,7 @@
 		<section class="full-box page-content">
 			<?php
 				include_once './vistas/includes/Navar.php';
-				include_once $vistas ;
+				include_once $vistas;
 			?>
 		</section>
 	</main>
